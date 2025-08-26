@@ -24,10 +24,10 @@ Ele utiliza um **sensor ultrassônico** para detectar obstáculos à frente e um
 ## 📸 Imagens do Projeto
 
 ### 🔧 Protótipo no Tinkercad
-![Protótipo no Tinkercad](img1.png)
+![Protótipo no Tinkercad](img2.png)
 
 ### ✅ Versão final construída
-![Versão final](img2.png)
+![Versão final](img1.png)
 
 ---
 
